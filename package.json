@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.cortex.net/cortex/util/wrap-async.git"
+    "url": "https://github.com/cortexteam/wrap-async.git"
   },
   "keywords": [
     "wrap",
     "async",
     "sync"
   ],
-  "author": "Alex Peterson",
-  "license": "ISC"
+  "author": "Cortex",
+  "license": "GPL"
 }
